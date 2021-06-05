@@ -1,0 +1,24 @@
+[
+    [
+        {"titulo":"Beats","precio":"700"},
+        {"titulo":"Producciones sin beat","precio":"1200"},
+        {"titulo":"Producciones con beat","precio":"1800"},
+        {"titulo":"Solo Mezcla","precio":"1000"},
+        {"titulo":"Solo Masterización","precio":"1000"}
+    ],
+    [
+        {"titulo":"Video Musical","precio":"5000"},
+        {"titulo":"Podcast","precio":"1200"},
+        {"titulo":"Films","precio":"20000"},
+        {"titulo":"Batallas de gallos","precio":"5000"}
+    ],
+
+    [
+        {"titulo":"Logo","precio":"2500"},
+        {"titulo":"Portada","precio":"1200"},
+        {"titulo":"Imagen Personal ","precio":"3000"}    
+    ]
+    
+
+    
+]

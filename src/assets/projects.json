@@ -1,0 +1,11 @@
+[
+    {"name":"Doppio","desc":"portfolio.port1","tec":"React JS","link":"https://doppio.albertovaldez.com/", "git":"https://github.com/alberto-valdez/fitday"},
+    {"name":"Binaryapp","desc":"portfolio.port2","tec":"React JS","link":"www.binary.albertovaldez.com", "git":"https://github.com/alberto-valdez/binaryapp"},
+    {"name":"Pomodoro","desc":"portfolio.port3","tec":"React JS","link":"https://alberto-valdez.github.io/pomodoro/?", "git":"https://github.com/alberto-valdez/pomodoro"},
+    {"name":"Doppio","desc":"portfolio.port1","tec":"React JS","link":"https://doppio.albertovaldez.com/", "git":"https://github.com/alberto-valdez/fitday"},
+    {"name":"Binaryapp","desc":"portfolio.port2","tec":"React JS","link":"www.binary.albertovaldez.com", "git":"https://github.com/alberto-valdez/binaryapp"},
+    {"name":"Pomodoro","desc":"portfolio.port3","tec":"React JS","link":"https://alberto-valdez.github.io/pomodoro/?", "git":"https://github.com/alberto-valdez/pomodoro"}
+    
+
+    
+]
